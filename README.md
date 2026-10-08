@@ -228,24 +228,3 @@ My reflection on `GOTO` rules, illegal jumps, stored functions, and exception
 handling is in [`docs/REFLECTION.md`](docs/REFLECTION.md).
 
 ---
-
-## Final Checklist
-
-- [x] Public GitHub repository
-- [x] Correct repository name (`plsql-goto-functions-29359-Blaise`)
-- [x] All required SQL files completed
-- [x] Functions compile successfully
-- [x] Tests completed
-- [x] Screenshots included
-- [x] Reflection completed
-- [x] README completed
-- [x] At least 5 meaningful commits
-- [x] GitHub link submitted through the Google Form
-- [x] Prepared for next week's quiz
-
-## Notes
-
-An AI assistant (opencode) was used to draft the SQL scripts and this
-documentation. Every script was compiled and executed against an Oracle 21c
-database before submission, and I reviewed, tested, and can explain all of the
-submitted code.
